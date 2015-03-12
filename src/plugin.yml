@@ -1,0 +1,16 @@
+author: K0Gs
+database: false
+main: com.kogshole.Statue.Mod_statue
+name: statue
+startup: postworld
+version: '1.1'
+softdepend: [WorldGuard, CoreProtect]
+depends: [Vault]
+commands:
+   statue:
+      description: Build a statue or two, of me or of you.
+      usage: /statue <player> <hat>  /statue pixel <player_Name>  /statue head <player_Name>
+permissions:
+   statue.build:
+      description: Gives access to all Statue commands
+      default: op
