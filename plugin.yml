@@ -1,6 +1,6 @@
 author: K0Gs
 database: false
-main: com.k0gshole.statue.mod_statue
+main: com.k0gshole.statue.Mod_statue
 name: statue
 startup: postworld
 version: '1.1'
