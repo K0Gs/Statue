@@ -15,5 +15,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="D:/BuildTools/Vault.jar"/>
+	<classpathentry kind="lib" path="D:/BuildTools/flanagan.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
